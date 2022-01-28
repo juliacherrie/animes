@@ -1,0 +1,46 @@
+body{
+	background-color: #000000
+}
+
+.central {
+	position: relative;
+	width: 1250px;
+	margin: none;
+}
+
+nav {
+
+	position: absolute;
+	top: 125px;
+	right: 0;
+	color: 
+}
+
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+	right: 5000px
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #a380e9;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	font-family: 'Pacifico', cursive;
+}
+
+nav a:hover {
+	color: #409cb1;
+	text-decoration: underline;
+
+}	
+
+.madoka {
+   padding-left: 600px
+
+   
+}
+
